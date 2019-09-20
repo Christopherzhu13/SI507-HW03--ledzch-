@@ -1,10 +1,7 @@
 import random
-
-
 def ask_questions():
     x=input("What is your question?")
     return x
-
 
 def add_questions():
     num = random.randint(0, 9)
