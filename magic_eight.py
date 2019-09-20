@@ -23,3 +23,8 @@ while (True):
     if x[-1]!='?':
         print("I’m sorry, I can only answer questions.")
         continue
+    b=random.randint(1,2)
+    if b==1:
+        pick_answer()
+    else:
+        add_questions()
