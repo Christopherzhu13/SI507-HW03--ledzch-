@@ -16,4 +16,3 @@ def add_questions():
                "Concentrate and ask again.", "Don't count on it.", "My reply is no.", "My sources say no.",
                "Outlook not so good.", "Very doubtful."]
     print(answers[num])
-
